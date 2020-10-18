@@ -1,3 +1,9 @@
+# Repository was removed
+
+https://packagist.org/packages/beeyev/yandex-translate
+
+This is fallback repository for version 2.0.1
+
 # Yandex.Translate
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
